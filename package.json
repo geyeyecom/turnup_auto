@@ -1,0 +1,31 @@
+{
+  "name": "turnup_auto",
+  "version": "1.0.0",
+  "description": " turnup auto task",
+  "main": "autotask.js",
+  "scripts": {
+    "dev": "node autotask.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geyeyecom/turnup_auto.git"
+  },
+  "keywords": [
+    "turnup",
+    "autotask",
+    "matic",
+    "task",
+    "GoTurnUp",
+    "trading",
+    "turnup.so/@g66881",
+    "turnup.so"
+  ],  
+  "author": "geyeye",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "config": "^3.3.10",
+    "moment": "^2.30.1",
+    "request": "^2.88.2"
+  }
+}
