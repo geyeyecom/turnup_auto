@@ -33,3 +33,8 @@ npm run dev
 ## turnup  documentation
 
   * web: https://turnup.so/@g66881
+
+## about author
+
+  * twiter: https://twitter.com/G66881
+  * weixin: geyeye_com
